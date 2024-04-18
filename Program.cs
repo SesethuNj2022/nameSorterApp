@@ -1,7 +1,4 @@
 ﻿using nameSorterApp;
-using System;
-using System.Collections.Generic;
-using System.IO;
 
 namespace NameSorterApp
 {
