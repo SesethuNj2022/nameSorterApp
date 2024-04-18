@@ -7,7 +7,7 @@ This C# program sorts a list of names first by last name and then by given names
 1. Clone the repository:
 
 
-git clone
+git clone : https://github.com/SesethuNj2022/nameSorterApp
 
 2. Navigate to the project directory
 
